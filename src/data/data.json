@@ -1,0 +1,73 @@
+{
+    "dados" : {
+        "modalidades_ensino": "🎓 **TRÊS MODALIDADES DE ENSINO:**\n• 📚 Ensino Médio Regular\n• 💻 Ensino Médio Técnico (EPT)\n• ♿ AEE - Atendimento Educacional Especializado",
+        "ensino_medio_regular": "📚 **ENSINO MÉDIO REGULAR:**\n• Grade curricular completa do MEC\n• Preparação para ENEM e vestibulares\n• Projetos interdisciplinares\n• Atividades culturais e esportivas\n• Desenvolvimento integral do estudante",
+        "aee": "♿ **AEE - ATENDIMENTO EDUCACIONAL ESPECIALIZADO:**\n• Atendimento a estudantes com deficiência\n• Sala de recursos multifuncionais\n• Professores especializados em educação especial\n• Tecnologias assistivas e adaptações\n• Apoio à inclusão escolar\n• Parceria com famílias e profissionais",
+        "ept": "💼 **EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA (EPT):**\n• Integração do ensino médio com formação técnica\n• Certificação profissional reconhecida pelo MEC\n• Preparação para o mercado de trabalho\n• Desenvolvimento de habilidades técnicas\n• Diferencial competitivo no currículo",
+        "cursos_tecnico": "💻 **TÉCNICO EM INFORMÁTICA** | 📊 **TÉCNICO EM ADMINISTRAÇÃO** | 🔧 **TÉCNICO EM DESENVOLVIMENTO DE SISTEMAS**",
+        "curso_informatica": "💻 **TÉCNICO EM INFORMÁTICA:**\n• Programação e Algoritmos\n• Redes de Computadores\n• Desenvolvimento Web\n• Manutenção de Computadores\n• Banco de Dados\n• Segurança da Informação\n🎯 **Duração:** 3 anos integrados",
+        "curso_administracao": "📊 **TÉCNICO EM ADMINISTRAÇÃO:**\n• Gestão Empresarial\n• Marketing e Vendas\n• Recursos Humanos\n• Finanças e Contabilidade\n• Empreendedorismo\n• Logística\n🎯 **Duração:** 3 anos integrados",
+        "curso_desenvolvimento": "🔧 **TÉCNICO EM DESENVOLVIMENTO DE SISTEMAS:**\n• Programação Avançada\n• Desenvolvimento Mobile\n• Banco de Dados\n• Análise de Sistemas\n• Projeto de Software\n• Testes de Software\n🎯 **Duração:** 3 anos integrados",
+        "infraestrutura": "🏫 **INFRAESTRUTURA COMPLETA:**\n• 18 salas de aula climatizadas\n• 🖥️ Laboratório de Informática com 25 computadores\n• 🔧 Laboratório de Práticas Profissionais\n• ♿ Sala de AEE com recursos multifuncionais\n• 📚 Biblioteca com mais de 5.000 livros\n• 🏀 Quadra poliesportiva coberta\n• 🍽️ Refeitório com capacidade para 120 alunos\n• 🎭 Auditório para 200 pessoas\n• 📡 WiFi em toda a escola",
+        "diretora": "👩‍💼 **Diretora:** Prof.ª Joseane Sampaio",
+        "coordenador_ept": "👨‍🏫 **Coordenadores dos Cursos Técnicos:** Prof. José Reis e Prof. Josieliton",
+        "coordenadora_pedagogica": "👩‍🏫 **Coordenadoras Pedagógicas:** Prof.ª Lúcia Nascimento e Prof.ª Regina Aparecida",
+        "supervisora": "👩‍💼 **Supervisora de Ensino:** Prof.ª Jozilene Leocádio",
+        "secretario_educacao": "🏛️ **Secretário de Educação:** Washington Bandeira",
+        "secretaria_escola": "👩‍💼 **Secretária da Escola:** Antonio Almeida - Titonha",
+        "gerente_18gre": "📋 **Gerente da 18ª GRE:** Prof.ª Lusia Pessoa",
+        "governador_piaui": "🏛️ **Governador do Piauí:** Rafael Fonteles",
+        "turma_responsavel": "👨‍🎓 **Turma Responsável pelo Sistema:** 1º Ano - Desenvolvimento de Sistemas - 2025",
+        "colaboradores_escola": "👥 **Equipe de Colaboradores:** 58 profissionais dedicados (professores, coordenadores e funcionários)",
+        "redes_sociais": "📱 **Redes Sociais:** Instagram: @cetiacrisioveras | Facebook: CETI Acrísio Veras",
+        "total_alunos": "📊 **Total de Alunos:** 257 estudantes",
+        "horarios_aula": "⏰ **HORÁRIOS DE FUNCIONAMENTO:**\n• Ensino Regular:  Período Integral (7h-16h40)\n• Cursos Técnicos: Período Integral (7h-16h40)\n• AEE: Contraturno (conforme agendamento)",
+        "contato": "📞 **CONTATOS:**\n• Telefone: (86) 98101-7353\n• E-mail: cetiacrisioveras@gmail.com\n• Endereço: Rua Virgilio Campelo, 286 Centro - Alto Longá - PI\n• Funcionamento: Segunda a Sexta, 7h às 18h",
+        "inscricao": "📝 **INSCRIÇÕES ABERTAS!**\n\n📍 **Como se inscrever:**\n1. Compareça à secretaria da escola\n2. Documentos necessários: RG, CPF, Histórico escolar\n\n🎓 **Todos os cursos são GRATUITOS!**",
+        "resultados": "🏆 **CONQUISTAS E RESULTADOS:**\n• 🎓 Mais de 500 técnicos formados desde 2010\n• 📈 85% dos formados empregados em 6 meses\n• 🥇 Melhor Projeto Técnico 2023\n• 🏅 Olimpíada de Robótica 2024\n• 💡 Destaque em Inovação Educacional 2024"
+    },
+    "quiz_perguntas": [
+        {
+            "pergunta": "🎯 Quantos cursos técnicos o CETI oferece?",
+            "opcoes": ["A) 1 curso", "B) 2 cursos", "C) 3 cursos", "D) 4 cursos"],
+            "resposta": "C",
+            "explicacao": "✅ Correto! Oferecemos 3 cursos técnicos: Informática, Administração e Desenvolvimento de Sistemas!"
+        },
+        {
+            "pergunta": "♿ O que significa AEE?",
+            "opcoes": ["A) Aula Extra Escolar", "B) Atendimento Educacional Especializado", "C) Atividade Esportiva Escolar", "D) Acompanhamento Escolar Eletivo"],
+            "resposta": "B",
+            "explicacao": "🎓 Excelente! AEE é Atendimento Educacional Especializado para inclusão de estudantes com deficiência!"
+        },
+        {
+            "pergunta": "👩‍💼 Qual o nome da nossa diretora?",
+            "opcoes": ["A) Prof.ª Maria Silva", "B) Prof.ª Joseane Sampaio", "C) Prof.ª Ana Costa", "D) Prof.ª Lúcia Santos"],
+            "resposta": "B",
+            "explicacao": "👏 Perfeito! Nossa diretora é a Prof.ª Joseane Sampaio!"
+        },
+        {
+            "pergunta": "🏛️ Quem é o governador do Piauí?",
+            "opcoes": ["A) Wellington Dias", "B) Rafael Fonteles", "C) Regina Sousa", "D) Zé Filho"],
+            "resposta": "B",
+            "explicacao": "🏛️ Isso mesmo! O governador é Rafael Fonteles!"
+        },
+        {
+            "pergunta": "👥 Quantos colaboradores tem nossa escola?",
+            "opcoes": ["A) 35 colaboradores", "B) 42 colaboradores", "C) 58 colaboradores", "D) 60 colaboradores"],
+            "resposta": "C",
+            "explicacao": "👥 Correto! Temos 58 colaboradores dedicados à educação!"
+        }
+    ],
+    "perguntas_sugeridas": [
+        "Quais as modalidades de ensino?",
+        "O que é EPT?",
+        "Como funciona o AEE?",
+        "Quais cursos técnicos oferecem?",
+        "Quantos alunos estudam aqui?",
+        "Qual o horário de funcionamento?",
+        "Como faço para me inscrever?",
+        "Quem é a diretora?",
+        "Tem laboratório de informática?",
+        "Os cursos são gratuitos?"
+    ]
+}
