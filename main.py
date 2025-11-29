@@ -1,11 +1,11 @@
 from src.ia_acrisio import IA_EPT_CETI
-from src.utils import animacao_show, mostrar_banner_show, efeito_digitacao_show
+from src.utils import animacao_show, mostrar_banner_show, efeito_digitacao_show, resource_path
 from time import sleep
 from json import loads
 
 
 def main():
-    json = loads(open("src/data/data.json", "r", encoding="utf-8").read())
+    json = loads(open(resource_path("data/data.json"), "r", encoding="utf-8").read())
     ia = IA_EPT_CETI(json["dados"], json["quiz_perguntas"], json["perguntas_sugeridas"])
     
     # Banner espetacular
